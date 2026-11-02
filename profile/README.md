@@ -24,7 +24,7 @@
 
 ---
 
-### 👋 Welcome to Equinova Labs
+###  Welcome to Equinova Labs
 
 Whether you're an early-stage founder taking an MVP from zero to launch, or an established team that needs a security audit, performance tune-up, or full-stack feature delivery — **great to have you here**.
 
@@ -85,19 +85,19 @@ Resilient CI/CD pipelines, containerization, and modern cloud deployment configu
 
 ---
 
-## 🤝 How We Work With You
+##  How We Work With You
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 Direct Engineer Access
+#### Direct Engineer Access
 No account managers playing telephone. You talk and collaborate directly with the engineers designing, writing, and deploying your software.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🛡️ Security Built In, Not Bolted On
+#### Security Built In, Not Bolted On
 We come from a cybersecurity background. Threat modeling, sanitized inputs, and hardened configurations are second nature from day one.
 
 </td>
@@ -105,7 +105,7 @@ We come from a cybersecurity background. Threat modeling, sanitized inputs, and 
 <tr>
 <td width="50%" valign="top">
 
-#### 📦 100% Intellectual Property Ownership
+#### 100% Intellectual Property Ownership
 Clean repositories, clear documentation, and zero vendor lock-in. Everything we create belongs entirely to you.
 
 </td>
@@ -120,7 +120,7 @@ Weekly demos, transparent progress tracking, and working software in your hands 
 
 ---
 
-## 🛠️ The Tech We Trust
+## The Tech We Trust
 
 <div align="center">
 
@@ -140,7 +140,7 @@ Weekly demos, transparent progress tracking, and working software in your hands 
 
 <div align="center">
 
-## 💬 Have a project in mind?
+## Have a project in mind?
 
 Whether you're starting from a napkin sketch or need someone to audit and accelerate an existing codebase, let's talk.
 
@@ -152,6 +152,6 @@ Whether you're starting from a napkin sketch or need someone to audit and accele
 
 <br><br>
 
-<sub>📍 Nairobi, Kenya & Global Remote &nbsp;|&nbsp; © 2026 Equinova Labs. All rights reserved.</sub>
+<sub>  © 2026 Equinova Labs. All rights reserved.</sub>
 
 </div>
