@@ -32,7 +32,7 @@ We don't do bloated agency bureaucracy, endless slide decks, or junior developer
 
 ---
 
-## ⚡ Execution Spectrum
+## Execution Spectrum
 
 <table>
 <tr>
@@ -111,7 +111,7 @@ Clean repositories, clear documentation, and zero vendor lock-in. Everything we 
 </td>
 <td width="50%" valign="top">
 
-#### 🚀 Fast Iterations, Real Deliverables
+#### Fast Iterations, Real Deliverables
 Weekly demos, transparent progress tracking, and working software in your hands instead of theoretical promises.
 
 </td>
