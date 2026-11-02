@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Equinova-labs/.github/main/profile/equinova_logo.png" width="160" alt="Equinova Labs" />
+  <img src="https://raw.githubusercontent.com/Equinova-labs/.github/main/profile/equinova-mark-micro.svg" width="130" alt="Equinova Labs" />
 
   <br>
 
