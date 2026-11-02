@@ -11,7 +11,7 @@
   <br>
 
   <a href="https://equinovalabs.vercel.app">
-    <img src="https://img.shields.io/badge/Explore_Portfolio--00e5ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Explore_Portfolio-equinovalabs.vercel.app-00e5ff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=101014" alt="Portfolio" />  
   </a>
   &nbsp;
   <a href="https://equinovalabs.vercel.app#contact">
