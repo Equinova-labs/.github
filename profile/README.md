@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://equinovalabs.vercel.app"><img src="https://img.shields.io/badge/Studio-Live_Portfolio-00e5ff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=09090b" alt="Live Portfolio" /></a>
   <img src="https://img.shields.io/badge/Execution-Zero_Compromise-white?style=for-the-badge&labelColor=09090b" alt="Zero Compromise" />
-  <img src="https://img.shields.io/badge/Commits-Verified_&_Signed-00e5ff?style=for-the-badge&logo=git&logoColor=white&labelColor=09090b" alt="Verified Commits" />
 </p>
 
 </div>
