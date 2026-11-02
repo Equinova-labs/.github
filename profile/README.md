@@ -1,46 +1,59 @@
 <div align="center">
 
-<img src="./equinova_logo.png" width="200" alt="Equinova Labs Logo" />
+  <img src="https://raw.githubusercontent.com/Equinova-labs/.github/main/profile/equinova_logo.png" width="160" alt="Equinova Labs" />
 
-# EQUINOVA LABS
-### *Precision Software Engineering Studio*
+  <br>
 
-<p align="center">
-  <strong>We build software that works flawlessly and stays secure.</strong><br>
-  From MVPs to penetration testing — engineering security-first solutions with zero compromise.
-</p>
+  <h1>EQUINOVA LABS</h1>
+  <p><strong>Boutique Software Engineering & Application Security Studio</strong></p>
+  <p>We build software that works reliably, scales cleanly, and stays secure under pressure.</p>
 
-<p align="center">
-  <a href="https://equinovalabs.vercel.app"><img src="https://img.shields.io/badge/Studio-Live_Portfolio-00e5ff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=09090b" alt="Live Portfolio" /></a>
-  <img src="https://img.shields.io/badge/Execution-Zero_Compromise-white?style=for-the-badge&labelColor=09090b" alt="Zero Compromise" />
-</p>
+  <br>
+
+  <a href="https://equinovalabs.vercel.app">
+    <img src="https://img.shields.io/badge/Explore_Portfolio-equinovalabs.vercel.app-00e5ff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=101014" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://equinovalabs.vercel.app#contact">
+    <img src="https://img.shields.io/badge/Start_a_Project-Get_in_Touch-ffffff?style=for-the-badge&logo=mailgun&logoColor=black&labelColor=101014" alt="Get in Touch" />
+  </a>
 
 </div>
 
+<br>
+
 ---
 
-## // EXECUTION SPECTRUM
+### 👋 Welcome to Equinova Labs
+
+Whether you're an early-stage founder taking an MVP from zero to launch, or an established team that needs a security audit, performance tune-up, or full-stack feature delivery — **great to have you here**.
+
+We don't do bloated agency bureaucracy, endless slide decks, or junior developers learning on your dime. When you work with us, you work directly with senior engineers who care about clean code, practical design, and shipping real products that hold up in production.
+
+---
+
+## ⚡ Execution Spectrum
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### `[01_BUILD]`
-**Web & App Development**
+#### Web & App Development
 Custom applications & rapid MVPs. Clean architecture, high-velocity delivery, engineered to scale securely from day one.
 
 </td>
 <td width="33%" valign="top">
 
 ### `[02_OPTIMIZE]`
-**Performance Optimization**
+#### Performance Optimization
 In-depth profiling and system overhauls. We pinpoint performance bottlenecks and eliminate them at the source.
 
 </td>
 <td width="33%" valign="top">
 
 ### `[03_LOG]`
-**Monitoring & Observability**
+#### Monitoring & Observability
 Complete telemetry and logging pipelines. Full observability before users report anomalies.
 
 </td>
@@ -49,21 +62,21 @@ Complete telemetry and logging pipelines. Full observability before users report
 <td width="33%" valign="top">
 
 ### `[04_TEST]`
-**QA & Verification**
+#### QA & Verification
 Rigorous automated testing cycles — unit, integration, and end-to-end suites for zero-regression releases.
 
 </td>
 <td width="33%" valign="top">
 
 ### `[05_SECURE]`
-**Penetration Testing**
+#### Penetration Testing
 Full-spectrum web and mobile security assessments, logic flow auditing, and threat modeling before malicious actors strike.
 
 </td>
 <td width="33%" valign="top">
 
 ### `[06_DEPLOY]`
-**DevOps & Infrastructure**
+#### DevOps & Infrastructure
 Resilient CI/CD pipelines, containerization, and modern cloud deployment configurations designed for high availability.
 
 </td>
@@ -72,33 +85,73 @@ Resilient CI/CD pipelines, containerization, and modern cloud deployment configu
 
 ---
 
-## // TECHNICAL ARSENAL
+## 🤝 How We Work With You
 
-```yaml
-core_stack:
-  languages: [TypeScript, Python, Rust, Go, Bash]
-  frontend: [React, Next.js, Vite, Tailwind CSS, PySide/Qt]
-  backend: [FastAPI, Node.js, Django, PostgreSQL, Redis, SQLite]
-  security: [Burp Suite, OWASP ASVS, Threat Modeling, Static/Dynamic Analysis]
-  infra: [Docker, GitHub Actions, Vercel, Cloudflare, Linux Systems]
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 Direct Engineer Access
+No account managers playing telephone. You talk and collaborate directly with the engineers designing, writing, and deploying your software.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ Security Built In, Not Bolted On
+We come from a cybersecurity background. Threat modeling, sanitized inputs, and hardened configurations are second nature from day one.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📦 100% Intellectual Property Ownership
+Clean repositories, clear documentation, and zero vendor lock-in. Everything we create belongs entirely to you.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 Fast Iterations, Real Deliverables
+Weekly demos, transparent progress tracking, and working software in your hands instead of theoretical promises.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## // REPOSITORIES & ECOSYSTEM
-
-- **[`portfolio`](https://github.com/equinovalabs)**: The official public landing and execution showcase.
-- **[`Verba`](https://github.com/equinovalabs)**: Precision voice and audio AI engineering systems.
-
----
+## 🛠️ The Tech We Trust
 
 <div align="center">
 
-### // ESTABLISH A CONNECTION
-Interested in collaborating, launching a project, or requesting a security assessment?
+| Area | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `TypeScript` · `Python` · `Rust` · `Go` · `Modern Bash` · `SQL` |
+| **Frontend** | `React` · `Next.js` · `Vite` · `Tailwind CSS` · `PySide / Qt` |
+| **Backend & Data** | `FastAPI` · `Node.js` · `Django` · `PostgreSQL` · `Redis` · `SQLite` |
+| **Security & Auditing** | `Burp Suite` · `OWASP ASVS` · `Static & Dynamic Analysis` · `PAM / Linux Hardening` |
+| **DevOps & Cloud** | `Docker` · `GitHub Actions` · `Vercel` · `Cloudflare` · `Linux Systems` |
 
-[![Transmit Message](https://img.shields.io/badge/TRANSMIT_MESSAGE-Get_in_Touch-00e5ff?style=for-the-badge&labelColor=09090b)](https://equinovalabs.vercel.app#contact)
+</div>
 
-<sub>© 2026 Equinova Labs. All systems operational.</sub>
+---
+
+<br>
+
+<div align="center">
+
+## 💬 Have a project in mind?
+
+Whether you're starting from a napkin sketch or need someone to audit and accelerate an existing codebase, let's talk.
+
+<br>
+
+<a href="https://equinovalabs.vercel.app#contact">
+  <img src="https://img.shields.io/badge/START_A_PROJECT-Let's_Build_Together-00e5ff?style=for-the-badge&labelColor=101014" height="42" alt="Start a Project" />
+</a>
+
+<br><br>
+
+<sub>📍 Nairobi, Kenya & Global Remote &nbsp;|&nbsp; © 2026 Equinova Labs. All rights reserved.</sub>
 
 </div>
