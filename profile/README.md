@@ -11,11 +11,11 @@
   <br>
 
   <a href="https://equinovalabs.vercel.app">
-    <img src="https://img.shields.io/badge/Explore_Portfolio--00e5ff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=101014" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/STUDIO-VIEW_PORTFOLIO-00e5ff?style=for-the-badge&labelColor=101014" alt="View Portfolio" />
   </a>
   &nbsp;
   <a href="https://equinovalabs.vercel.app#contact">
-    <img src="https://img.shields.io/badge/Start_a_Project-Get_in_Touch-ffffff?style=for-the-badge&logo=mailgun&logoColor=black&labelColor=101014" alt="Get in Touch" />
+    <img src="https://img.shields.io/badge/GET_IN_TOUCH-Start_a_Project-ffffff?style=for-the-badge&labelColor=101014" alt="Get in Touch" />
   </a>
 
 </div>
@@ -24,7 +24,7 @@
 
 ---
 
-###  Welcome to Equinova Labs
+### Welcome to Equinova Labs
 
 Whether you're an early-stage founder taking an MVP from zero to launch, or an established team that needs a security audit, performance tune-up, or full-stack feature delivery — **great to have you here**.
 
@@ -85,7 +85,7 @@ Resilient CI/CD pipelines, containerization, and modern cloud deployment configu
 
 ---
 
-##  How We Work With You
+## How We Work With You
 
 <table>
 <tr>

@@ -11,11 +11,11 @@
   <br>
 
   <a href="https://equinovalabs.vercel.app">
-<img src="https://img.shields.io/badge/Explore_Portfolio-equinovalabs.vercel.app-00e5ff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=101014" alt="Portfolio" />  
+    <img src="https://img.shields.io/badge/STUDIO-VIEW_PORTFOLIO-00e5ff?style=for-the-badge&labelColor=101014" alt="View Portfolio" />
   </a>
   &nbsp;
   <a href="https://equinovalabs.vercel.app#contact">
-    <img src="https://img.shields.io/badge/Start_a_Project-Get_in_Touch-ffffff?style=for-the-badge&logo=mailgun&logoColor=black&labelColor=101014" alt="Get in Touch" />
+    <img src="https://img.shields.io/badge/GET_IN_TOUCH-Start_a_Project-ffffff?style=for-the-badge&labelColor=101014" alt="Get in Touch" />
   </a>
 
 </div>
@@ -97,7 +97,7 @@ No account managers playing telephone. You talk and collaborate directly with th
 </td>
 <td width="50%" valign="top">
 
-#### 🛡️ Security Built In, Not Bolted On
+#### Security Built In, Not Bolted On
 We come from a cybersecurity background. Threat modeling, sanitized inputs, and hardened configurations are second nature from day one.
 
 </td>
@@ -152,6 +152,6 @@ Whether you're starting from a napkin sketch or need someone to audit and accele
 
 <br><br>
 
-<sub> © 2026 Equinova Labs. All rights reserved.</sub>
+<sub>  © 2026 Equinova Labs. All rights reserved.</sub>
 
 </div>
